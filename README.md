@@ -1,22 +1,22 @@
-# Hi there, I'm Ashwin! ðŸ‘‹
+# Hi there, I'm Ashwin! 👋
 
-### ðŸ‘¨â€ðŸ’» CS Engineer | AI & Robotics Enthusiast | Full-Stack Mobile Developer
+### 👨‍💻 CS Engineer | AI & Robotics Enthusiast | Full-Stack Mobile Developer
 
 I am a Computer Science undergraduate (B.Tech) based in **Patna, India**. I specialize in bridging the gap between hardware and software, with a strong focus on **Reinforcement Learning**, **Deep Learning**, **Unmanned Aerial Vehicles (UAVs)**, and **Mobile Application Development**.
 
 ---
 
-### ðŸ”­ What I'm Working On
+### 🔭 What I'm Working On
 
-- **ðŸ“± Reclaim_IT:** A comprehensive mobile application for Lost & Found items built with **Flutter**, **Dart**, **GetX**, and **Supabase**.
-- **ðŸš AI-Driven UAV Path Planning:** Integrating **Transformers** and **Reinforcement Learning** to optimize drone navigation paths in complex environments.
-- **ðŸ–±ï¸ AI Virtual Mouse:** A hands-free system using **Python, OpenCV, and MediaPipe** to control cursor movement via hand gestures.
-- **ðŸ’¾ Visual Cache Simulator:** A Python-based simulator to demonstrate **Computer Organization & Architecture (COA)** concepts and memory mapping.
-- **ðŸ¤– RL Agent Navigation:** Implementing **Q-Learning** algorithms for autonomous agent pathfinding in 2D grid environments.
+- **📱 Reclaim_IT:** A comprehensive mobile application for Lost & Found items built with **Flutter**, **Dart**, **GetX**, and **Supabase**.
+- **🚁 AI-Driven UAV Path Planning:** Integrating **Transformers** and **Reinforcement Learning** to optimize drone navigation paths in complex environments.
+- **🖱️ AI Virtual Mouse:** A hands-free system using **Python, OpenCV, and MediaPipe** to control cursor movement via hand gestures.
+- **💾 Visual Cache Simulator:** A Python-based simulator to demonstrate **Computer Organization & Architecture (COA)** concepts and memory mapping.
+- **🤖 RL Agent Navigation:** Implementing **Q-Learning** algorithms for autonomous agent pathfinding in 2D grid environments.
 
 ---
 
-### ðŸ› ï¸ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,10 +36,10 @@ I am a Computer Science undergraduate (B.Tech) based in **Patna, India**. I spec
 
 ---
 
-### ðŸŒ± Current Focus
+### 🌱 Current Focus
 I am deeply interested in **Reinforcement Learning** and its application in **Robotics**. Currently, I am exploring how Transformer models can be utilized beyond NLP to solve spatial problems in drone technology, while also building robust, real-world **Flutter** applications.
 
-### âš¡ Fun Fact
+### ⚡ Fun Fact
 I once built a Cache Memory Simulator in a single day to visualize how computer memory mapping works!
 
 ---
