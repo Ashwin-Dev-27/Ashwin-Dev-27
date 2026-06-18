@@ -4,10 +4,16 @@
 
 I am a Computer Science undergraduate (B.Tech) based in **Patna, India**. I specialize in bridging the gap between hardware and software, with a strong focus on **Reinforcement Learning**, **Deep Learning**, **Unmanned Aerial Vehicles (UAVs)**, and **Mobile Application Development**.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashwin-kumar-84266a215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Ashwin_Dev_27/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+</p>
+
 ---
 
 ### 🔭 What I'm Working On
 
+- **📌 [DSA Pattern-Based Repository](https://github.com/Ashwin-Dev-27/dsa-patterns):** A highly structured, pattern-first collection of DSA problems with detailed complexity analysis and explanations.
 - **📱 Reclaim_IT:** A comprehensive mobile application for Lost & Found items built with **Flutter**, **Dart**, **GetX**, and **Supabase**.
 - **🚁 AI-Driven UAV Path Planning:** Integrating **Transformers** and **Reinforcement Learning** to optimize drone navigation paths in complex environments.
 - **🖱️ AI Virtual Mouse:** A hands-free system using **Python, OpenCV, and MediaPipe** to control cursor movement via hand gestures.
@@ -43,6 +49,13 @@ I am deeply interested in **Reinforcement Learning** and its application in **Ro
 I once built a Cache Memory Simulator in a single day to visualize how computer memory mapping works!
 
 ---
+
+<div align="left">
+  <a href="https://leetcode.com/u/Ashwin_Dev_27/">
+    <img align="center" src="https://leetcard.jacoblin.cool/Ashwin_Dev_27?theme=dark&font=Outfit&ext=activity" alt="Ashwin's LeetCode Stats" />
+  </a>
+</div>
+<br>
 
 <div align="left">
 <a href="https://github.com/Ashwin-Dev-27">
